@@ -2,6 +2,8 @@
 
 Use gdb-mi to interact with gdb through Java.
 
+Evironment: MacOSX Mojave, intellj community 2019.2
+
 ### Example
 
 Source code:
